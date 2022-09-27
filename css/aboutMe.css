@@ -1,0 +1,45 @@
+.me-about .me-inner {
+    padding-left: 50px;
+}
+.dark h2 {
+    color: #fff;
+}
+.me-about .me-inner h2 {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.me-about .me-inner p {
+    margin-bottom: 30px;
+}
+.me-tag {
+    word-break: break-all;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.me-tag ul li {
+    margin: 0px 6px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    padding: 4px 0px;
+    display: inline-block;
+}
+.me-tag ul li span {
+    border: 1px solid #0bceaf;
+    padding: 4px 10px;
+    border-radius: 4px;
+}
+.me-about .me-inner .btn {
+    margin-top: 20px;
+}
+.btn.btn-fill {
+    background-color: #0bceaf;
+    color: #fff;
+    padding: 8px 30px;
+    font-weight: bold;
+}
+.me-about .me-inner .btn .bi {
+    margin-left: 10px;
+}
+.dropdown-menu{
+    background-color: #0bceaf;
+}
